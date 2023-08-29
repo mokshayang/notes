@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e3bc4044df4d2ac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fedc41ec25130458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf1c4fb2323080a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "everyday/2023-08-29_週二.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c3082c11a6f49d0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e5a4f1ce0da9cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 note/2 超級核心 雙向鏈結(非常重要).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e0ef53fd68d1061",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eb4e1b41ea50401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96863ac37ee85160",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "672e50d87d718aa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#標題大小",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ea62adf3f43d398",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b404eb5064451d7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba76ed27a0a9345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e7d75172de6a81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "everyday/2023-08-29_週二.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fb97f68a0d9722e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2039a267371eaee7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "everyday/2023-08-29_週二.md"
+              }
+            }
+          },
+          {
+            "id": "5578d760f9d4a294",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "everyday/2023-08-29_週二.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "random-note:開始漫遊筆記": false,
+      "graph:查看關聯圖": false,
+      "workspaces:管理工作區配置": false
+    }
+  },
+  "active": "2cf1c4fb2323080a",
+  "lastOpenFiles": [
+    "img/Pasted image 20230506025148.png",
+    "everyday/2023-08-29_週二.md",
+    "everyday",
+    "img/Pasted image 20230506024752.png",
+    "img/Pasted image 20230506023946.png",
+    "img/Pasted image 20230506020609.png",
+    "ClassB3/FORNT.md",
+    "ClassB3/BACK.md",
+    "ClassB3/API.md",
+    "00 note/PPT.md",
+    "00 note/表格.md",
+    "00 note/心情筆記.md",
+    "00 note/未命名.md",
+    "00 note/2023-08-24.md",
+    "00 note/2023-07-11.md",
+    "00 note/2023-06-07.md",
+    "00 note/2 超級核心 雙向鏈結(非常重要).md",
+    "00 note/1 Markdown 語法.md",
+    "00 note/2023-06-01.md",
+    "00 note/0 開始學 Obsidian 第一天.md",
+    "img/Pasted image 20230510001005.png",
+    "img/Pasted image 20230612234010.png",
+    "img/Pasted image 20230612234300.png",
+    "img/Pasted image 20230506025637.png",
+    "img/Pasted image 20230506024124.png",
+    "未命名.canvas",
+    "ClassB3",
+    "img/Pasted image 20230506114650.png",
+    "00 note/google.com.md",
+    "00 note/未命名 3.md",
+    "00 note/上.md",
+    "helle.md",
+    "img",
+    "00 note",
+    "start.md",
+    "00 inbox/未命名 3.md",
+    "00 inbox/未命名 2.md",
+    "00 inbox/未命名 1.md",
+    "00 inbox/未命名.md",
+    "att",
+    "00 inbox",
+    "2023-05-06.md",
+    "test",
+    "新增資料夾",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
+  ]
+}
