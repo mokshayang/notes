@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "e3bc4044df4d2ac9",
+    "id": "3398426b9575151e",
     "type": "split",
     "children": [
       {
-        "id": "ca101639d924be7f",
+        "id": "8f9cdcf6769c7157",
         "type": "tabs",
         "children": [
           {
-            "id": "d835d781cfab8d09",
+            "id": "4b6645602e81790c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 note/test document_dataview.md",
+                "file": "00_DataBase/mysql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71f71bfafd2c7193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz_query/test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9e0ef53fd68d1061",
+    "id": "9c3ba7c8145c8a7f",
     "type": "split",
     "children": [
       {
-        "id": "2eb4e1b41ea50401",
+        "id": "c4996f15090c9039",
         "type": "tabs",
         "children": [
           {
-            "id": "96863ac37ee85160",
+            "id": "263abd14c7d80756",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "672e50d87d718aa1",
+            "id": "80d599bc88ea5583",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "7ea62adf3f43d398",
+            "id": "3465b53a18fbbc0f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "b404eb5064451d7e",
+    "id": "ca49c10500049481",
     "type": "split",
     "children": [
       {
-        "id": "cba76ed27a0a9345",
+        "id": "f6fbfec1259068bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e7d75172de6a81",
+            "id": "57c973a30f5fa3ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 note/test document_dataview.md",
+                "file": "zz_query/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +110,19 @@
             }
           },
           {
-            "id": "2fb97f68a0d9722e",
+            "id": "24b030ceb29ebbd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zz_query/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "912119f0cf71356a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -108,29 +133,17 @@
             }
           },
           {
-            "id": "2039a267371eaee7",
+            "id": "632a8b2708d630e1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 note/test document_dataview.md"
+                "file": "zz_query/test.md"
               }
             }
           },
           {
-            "id": "5578d760f9d4a294",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "00 note/test document_dataview.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d2bee80dcb23c0a4",
+            "id": "9b8ea0a8dc544cbc",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -138,75 +151,53 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:開始漫遊筆記": false,
+      "workspaces:管理工作區配置": false,
       "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "random-note:開始漫遊筆記": false,
-      "graph:查看關聯圖": false,
-      "workspaces:管理工作區配置": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d835d781cfab8d09",
+  "active": "71f71bfafd2c7193",
   "lastOpenFiles": [
-    "templates/通用.md",
-    "templates/日記模板.md",
-    "everyday/2023-08-31_週四.md",
-    "00 note/test document_dataview.md",
-    "Excalidraw/Drawing 2023-08-31 21.46.49.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-31 18.29.37.excalidraw.md",
-    "00 note/0 開始學 Obsidian 第一天.md",
-    "00 note/PPT.md",
-    "00 note/2 超級核心 雙向鏈結(非常重要).md",
-    "everyday/2023-08-30_週三.md",
-    "ClassB3/API.md",
-    "00 note/2023-07-11.md",
-    "00 note/2023-06-07.md",
-    "00 note/1 Markdown 語法.md",
-    "00 note/表格.md",
-    "00 note/未命名.md",
-    "00 note/未命名 1.md",
-    "ClassB3/FORNT.md",
-    "00 note/未命名 2.md",
-    "ClassB3/BACK.md",
-    "00 note/2023-08-24.md",
-    "00 note/心情筆記.md",
-    "everyday/2023-08-29_週二.md",
-    "everyday/2023-08-15_週二.md",
-    "everyday/2023-08-14_週一.md",
+    "Excalidraw/Drawing 2023-08-31 23.46.06.excalidraw.md",
+    "Diary/2023-08-22_週二.md",
+    "04_Fourth/重點地方",
+    "03_Third/重點地方",
+    "02_Second/重點地方",
+    "01_First/重點地方",
+    "04_Fourth/0_解題順序",
+    "03_Third/0_解題順序",
     "未命名",
-    "templates",
-    "img/Pasted image 20230612234300.png",
-    "img/Pasted image 20230612234010.png",
-    "img/Pasted image 20230506025654.png",
-    "img/Pasted image 20230506114650.png",
-    "img/Pasted image 20230510001005.png",
-    "img/Pasted image 20230506025637.png",
-    "img/Pasted image 20230506024124.png",
-    "img/Pasted image 20230506023946.png",
-    "Excalidraw",
+    "02_Second/0_解題順序",
+    "01_First/0_解題順序",
+    "00_DataBase/mysql.md",
     "未命名.canvas",
-    "ClassB3/123/223.md",
-    "ClassB3/123",
-    "img/Pasted image 20230506025148.png",
-    "everyday",
-    "img/Pasted image 20230506024752.png",
-    "ClassB3",
-    "img",
-    "00 note",
-    "att",
-    "00 inbox",
-    "未命名 1.canvas",
-    "未命名 2.canvas"
+    "zz_query/test.md",
+    "Diary/2023-08-31_週四.md",
+    "Templates/shared_diary.md",
+    "00_DataBase/未命名 2.md",
+    "00_DataBase/未命名 3.md",
+    "00_DataBase/未命名 1.md",
+    "00_DataBase/未命名.md",
+    "Templates/shared_attribute.md",
+    "zz_query/未命名.md",
+    "Template/未命名.md",
+    "Diary/99_test.md",
+    "zz_query",
+    "Pasted image 20230831233358.png.md",
+    "img/Pasted image 20230831233358.png"
   ]
 }

@@ -1,4 +1,5 @@
 {
   "format": "YYYY-MM-DD_ddd",
-  "folder": "everyday"
+  "folder": "everyday",
+  "template": "templates/日記模板"
 }

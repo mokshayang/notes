@@ -1,0 +1,5 @@
+{
+  "format": "YYYY-MM-DD_ddd",
+  "folder": "Diary",
+  "template": "shared_diary"
+}
