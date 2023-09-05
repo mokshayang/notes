@@ -11,23 +11,24 @@
             "id": "4b6645602e81790c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00_DataBase/mysql.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
           {
-            "id": "71f71bfafd2c7193",
+            "id": "6e976217cf7a21b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "zz_query/test.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-05 13.18.04.excalidraw.md"
               }
             }
           }
@@ -61,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#x251",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ca49c10500049481",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_query/test.md",
+                "file": "Excalidraw/Drawing 2023-09-05 13.18.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz_query/test.md",
+                "file": "Excalidraw/Drawing 2023-09-05 13.18.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz_query/test.md"
+                "file": "Excalidraw/Drawing 2023-09-05 13.18.04.excalidraw.md"
               }
             }
           },
@@ -151,14 +152,16 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "random-note:開始漫遊筆記": false,
       "workspaces:管理工作區配置": false,
       "switcher:開啟快速切換": false,
@@ -170,10 +173,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71f71bfafd2c7193",
+  "active": "6e976217cf7a21b3",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Excalidraw/Drawing 2023-09-05 13.18.04.excalidraw.md",
     "Excalidraw/Drawing 2023-08-31 23.46.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-01 07.15.31.excalidraw.md",
+    "00_DataBase/ClassB_3.md",
+    "00_DataBase/ClassB_2.md",
+    "Diary/2023-09-05_週二.md",
+    "00_DataBase/ClassB_1.md",
+    "00_DataBase/ClassB_4.md",
+    "zz_query/test.md",
+    "Templates/shared_attribute.md",
+    "Templates/shared_diary.md",
+    "00_DataBase/網頁乙級.pdf",
     "Diary/2023-08-22_週二.md",
+    "Diary/2023-08-31_週四.md",
+    "00_DataBase/mysql.md",
+    "02_Second/0_解題順序/未命名.md",
+    "zz_query/未命名.md",
+    "03_Third/未命名.canvas",
     "04_Fourth/重點地方",
     "03_Third/重點地方",
     "02_Second/重點地方",
@@ -183,20 +203,11 @@
     "未命名",
     "02_Second/0_解題順序",
     "01_First/0_解題順序",
-    "00_DataBase/mysql.md",
-    "未命名.canvas",
-    "zz_query/test.md",
-    "Diary/2023-08-31_週四.md",
-    "Templates/shared_diary.md",
     "00_DataBase/未命名 2.md",
     "00_DataBase/未命名 3.md",
     "00_DataBase/未命名 1.md",
-    "00_DataBase/未命名.md",
-    "Templates/shared_attribute.md",
-    "zz_query/未命名.md",
     "Template/未命名.md",
     "Diary/99_test.md",
-    "zz_query",
     "Pasted image 20230831233358.png.md",
     "img/Pasted image 20230831233358.png"
   ]

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 note/test document_dataview.md",
+                "file": "Excalidraw/Drawing 2023-08-31 21.46.49.excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54a9fd3c69a41998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/通用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 note/test document_dataview.md",
+                "file": "templates/通用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 note/test document_dataview.md"
+                "file": "templates/通用.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 note/test document_dataview.md",
+                "file": "templates/通用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,19 +166,18 @@
       "command-palette:開啟命令面板": false,
       "random-note:開始漫遊筆記": false,
       "graph:查看關聯圖": false,
-      "workspaces:管理工作區配置": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "workspaces:管理工作區配置": false
     }
   },
-  "active": "d835d781cfab8d09",
+  "active": "54a9fd3c69a41998",
   "lastOpenFiles": [
-    "templates/通用.md",
     "templates/日記模板.md",
-    "everyday/2023-08-31_週四.md",
-    "00 note/test document_dataview.md",
-    "Excalidraw/Drawing 2023-08-31 21.46.49.excalidraw.md",
+    "templates/通用.md",
     "Excalidraw/Drawing 2023-08-31 18.29.37.excalidraw.md",
     "00 note/0 開始學 Obsidian 第一天.md",
+    "Excalidraw/Drawing 2023-08-31 21.46.49.excalidraw.md",
+    "00 note/test document_dataview.md",
+    "everyday/2023-08-31_週四.md",
     "00 note/PPT.md",
     "00 note/2 超級核心 雙向鏈結(非常重要).md",
     "everyday/2023-08-30_週三.md",
