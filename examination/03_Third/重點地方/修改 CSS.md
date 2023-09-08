@@ -17,8 +17,12 @@ input[type='button'] .....
 這兩個增加
 ```css
 border-radius: 5px;
-body
+input[type='button'],input[type='submit'],input[type='reset'],button,.button
 {
+    min-width:60px; **70->60
+    min-height:30px; **40->60
+ }
+
     /* background:url(../icon/b.png); */
     %% 上面那一行要註解掉，不然會發生錯誤 %%
     font-family:微軟正黑體;

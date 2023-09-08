@@ -14,3 +14,6 @@
     let type = $("input[name=type]:checked").val();
     let val = (type == "date") ? $('#date').val() :$('#name').val();
 ```
+
+![[Pasted image 20230908215821.png]]
+back/login.php
